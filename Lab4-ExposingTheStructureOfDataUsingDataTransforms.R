@@ -286,8 +286,8 @@ hist(boston_housing_scale_transform[, 1],
      main = names(boston_housing_scale_transform)[1])
 hist(boston_housing_scale_transform[, 2],
      main = names(boston_housing_scale_transform)[2])
-hist(boston_housing_scale_transform[, 3],
-     main = names(boston_housing_scale_transform)[3])
+hist(boston_housing_scale_transform[, 76],
+     main = names(boston_housing_scale_transform)[76])
 hist(boston_housing_scale_transform[, 5],
      main = names(boston_housing_scale_transform)[5])
 hist(boston_housing_scale_transform[, 6],
